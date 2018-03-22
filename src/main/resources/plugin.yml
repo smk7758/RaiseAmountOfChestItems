@@ -6,3 +6,4 @@ permissions:
 commands:
   RaiseAmountOfChestItems:
     description: RaiseAmountOfChestItems's command.
+    aliases: [raise, raoci]
