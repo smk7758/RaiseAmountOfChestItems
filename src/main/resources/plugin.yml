@@ -1,0 +1,8 @@
+name: RaiseAmountOfChestItems
+main: com.github.smk7758.RaiseAmountOfChestItems.Main
+version: 0.0.1
+author: smk7758
+permissions:
+commands:
+  RaiseAmountOfChestItems:
+    description: RaiseAmountOfChestItems's command.
